@@ -1,1 +1,3 @@
-"# SakuraTetris" 
+# SakuraTetris
+
+## Hello buddy
